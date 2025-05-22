@@ -122,4 +122,7 @@
 ```
 
 이외에도 많은 질문과 답변을 통해서 소통의 중요성을 알게되었습니다. 또한 기술적인 부분이나 개인 고민 등 소통할 수 있는 많은 시간을 가졌습니다.
-![Image](https://github.com/user-attachments/assets/4455ed51-1363-4561-99fc-e53142b220b7)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4455ed51-1363-4561-99fc-e53142b220b7" width="600">
+</div>
